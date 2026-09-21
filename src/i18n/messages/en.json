@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "siteName": "ARBEC",
+    "defaultTitle": "ARBEC — Engineering, Contracting & Supplies",
+    "defaultDescription": "ARBEC is an Egyptian multidisciplinary engineering firm delivering civil, electromechanical (MEP), infrastructure, solar and finishing works, alongside a full construction supplies division.",
+    "keywords": [
+      "ARBEC",
+      "engineering",
+      "contracting",
+      "MEP",
+      "infrastructure",
+      "solar energy",
+      "finishing works",
+      "construction supplies",
+      "Egypt"
+    ]
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "primary": "Primary",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "Menu",
+    "language": "Language",
+    "switchTo": "Switch language"
+  },
+  "preloader": {
+    "initializing": "SYSTEM INITIALIZING",
+    "ready": "SYSTEM READY",
+    "loading": "Loading ARBEC"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  },
+  "actions": {
+    "requestQuote": "Request a Quote",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us",
+    "viewProjects": "View Projects",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "workWithUs": "Work With Us",
+    "getInTouch": "Get In Touch",
+    "exploreWork": "Explore Our Work",
+    "startProject": "Start a Project"
+  },
+  "forms": {
+    "name": "Full name",
+    "email": "E-mail",
+    "phone": "Phone",
+    "service": "Service",
+    "message": "Project details",
+    "submit": "Send request",
+    "nameRequired": "Please enter your name.",
+    "emailRequired": "Please enter an e-mail address.",
+    "emailInvalid": "Enter a valid e-mail address.",
+    "phoneInvalid": "Enter a valid phone number.",
+    "messageRequired": "Tell us briefly about the project.",
+    "messageTooShort": "Add a little more detail so we can respond accurately.",
+    "privacy": "By submitting, you agree to be contacted by ARBEC."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Multidisciplinary Engineering — Egypt",
+      "title": "We Engineer What's Next.",
+      "titleLine1": "We Engineer",
+      "titleLine2": "What's Next.",
+      "lead": "The services of our experienced multidisciplinary team include structural design, computer modeling and analysis, construction drawings, substructure design, tender documents, cost analysis, construction management and supervision.",
+      "scrollHint": "Scroll to explore",
+      "hud": {
+        "system": "SYSTEM",
+        "coordinates": "30.0444° N, 31.2357° E",
+        "scale": "SCALE 1:200",
+        "sheet": "SHEET A-01",
+        "revision": "REV 03",
+        "approved": "ENG. APPROVED",
+        "loading": "LOADING"
+      }
+    },
+    "intro": {
+      "eyebrow": "ARBEC — Engineering, Contracting & Supplies",
+      "title": "Engineering Without Compromise.",
+      "lead": "From the first sketch to the final handover, our multidisciplinary team engineers every step — quality, safety and momentum at every stage of your project."
+    },
+    "metrics": {
+      "projects": "Successfully finished projects",
+      "years": "Years of experience",
+      "founded": "Founded in Egypt",
+      "disciplines": "Engineering disciplines"
+    }
+  },
+  "engineering": {
+    "eyebrow": "ARBEC · ENGINEERING CORE",
+    "titleLine1": "ENGINEERING",
+    "titleLine2": "AT EVERY LAYER.",
+    "lead": "From civil structure to MEP systems, every layer is engineered to work as one.",
+    "command": "ARBEC / ENGINEERING CORE",
+    "system": "SYSTEM",
+    "mode": "MODE",
+    "visualization": "VISUALIZATION",
+    "modeActive": "ACTIVE",
+    "analyzing": "ANALYZING ENGINEERING LAYER...",
+    "layerActive": "LAYER ACTIVE",
+    "selectHint": "Select a system to reveal its engineering layer",
+    "layers": {
+      "architecture": { "system": "SYSTEM / 01", "title": "ARCHITECTURE", "description": "Design and construction solutions shaped around project requirements." },
+      "civil": { "system": "SYSTEM / 02", "title": "CIVIL ENGINEERING", "description": "From structural design to concrete and construction works." },
+      "hvac": { "system": "SYSTEM / 03", "title": "HVAC", "description": "Mechanical systems designed to deliver controlled indoor environments." },
+      "electrical": { "system": "SYSTEM / 04", "title": "ELECTRICAL SYSTEMS", "description": "Power, lighting and light current systems integrated into the building." },
+      "plumbing": { "system": "SYSTEM / 05", "title": "PLUMBING", "description": "Water supply and drainage systems engineered for reliable building operation." },
+      "fire": { "system": "SYSTEM / 06", "title": "FIRE FIGHTING", "description": "Fire protection systems integrated into the building infrastructure." },
+      "infrastructure": { "system": "SYSTEM / 07", "title": "INFRASTRUCTURE", "description": "Integrated networks connecting buildings to essential site systems." },
+      "solar": { "system": "SYSTEM / 08", "title": "SOLAR ENERGY", "description": "Supply and installation of solar panel solutions." }
+    }
+  },
+  "ideaToReality": {
+    "intro": {
+      "eyebrow": "ARBEC · PROJECT DEVELOPMENT",
+      "titleLine1": "FROM IDEA",
+      "titleLine2": "TO REALITY.",
+      "lead": "Every project moves through a carefully coordinated journey — from planning and engineering to execution and delivery."
+    },
+    "command": "ARBEC / PROJECT DEVELOPMENT",
+    "stage": "STAGE",
+    "of": "OF",
+    "analyzing": "DEVELOPING PROJECT STAGE...",
+    "stageActive": "STAGE ACTIVE",
+    "selectHint": "Scroll to drive the evolution",
+    "stages": {
+      "idea": { "title": "IDEA", "description": "Every project begins with a clear understanding of its requirements." },
+      "engineering": { "title": "ENGINEERING", "description": "Design, analysis and engineering coordination turn the concept into a buildable solution." },
+      "technicalOffice": { "title": "TECHNICAL OFFICE", "description": "From construction drawings and tender documents to technical coordination and project support." },
+      "procurement": { "title": "PROCUREMENT", "description": "Materials and systems move from specification toward the project site." },
+      "construction": { "title": "CONSTRUCTION", "description": "The engineered concept takes physical form." },
+      "mep": { "title": "MEP SYSTEMS", "description": "Mechanical and electrical systems are integrated into the building." },
+      "finishing": { "title": "FINISHING", "description": "Engineering becomes architecture through carefully executed finishes." },
+      "delivery": { "title": "DELIVERY", "description": "A coordinated journey from concept to completed project." }
+    }
+  },
+  "projects": {
+    "intro": {
+      "eyebrow": "ARBEC · PROJECT RADAR",
+      "titleLine1": "PROJECTS THAT",
+      "titleLine2": "BECAME REALITY.",
+      "lead": "A rotating radar of delivered works — each entry carrying only the facts published on file."
+    },
+    "command": "ARBEC / PROJECT RADAR",
+    "project": "PROJECT",
+    "status": "STATUS",
+    "completed": "COMPLETED",
+    "category": "CATEGORY",
+    "location": "LOCATION",
+    "all": "ALL",
+    "viewProject": "VIEW PROJECT",
+    "back": "BACK TO PROJECTS",
+    "prev": "PREVIOUS",
+    "next": "NEXT",
+    "selectHint": "Use the index or the arrows to switch projects",
+    "recordNote": "Full scope details for this entry are not published.",
+    "categories": {
+      "caravan": "Caravans & Prefabricated",
+      "civil": "Architectural & Civil Works",
+      "finishing": "Finishing Works",
+      "infrastructure": "Infrastructure Networks",
+      "solar": "Solar Panels Works"
+    }
+  },
+  "services": {
+    "intro": {
+      "eyebrow": "ARBEC · SERVICE SYSTEMS",
+      "titleLine1": "ENGINEERED",
+      "titleLine2": "AROUND YOUR PROJECT.",
+      "lead": "From technical office work to complete electromechanical and civil execution, ARBEC brings multiple disciplines together."
+    },
+    "command": "ARBEC / SERVICE SYSTEMS",
+    "systemLabel": "SYSTEM",
+    "serviceLabel": "SERVICE",
+    "capabilities": "KEY CAPABILITIES",
+    "discussProject": "DISCUSS YOUR PROJECT",
+    "viewProjects": "VIEW PROJECTS",
+    "prev": "PREVIOUS",
+    "next": "NEXT",
+    "selectHint": "Select a service to activate its module",
+    "indexLabel": "SERVICE INDEX",
+    "count": "SERVICES",
+    "hub": "CENTRAL HUB",
+    "node": "SELECTED",
+    "back": "BACK TO SERVICES",
+    "seeSystems": "SEE WHAT LIES BENEATH",
+    "groups": {
+      "all": "ALL",
+      "contracting": "CONTRACTING",
+      "supplies": "SUPPLIES"
+    }
+  },
+  "infrastructure": {
+    "eyebrow": "ARBEC · INFRASTRUCTURE EXPERIENCE",
+    "titleLine1": "ENGINEERING WHAT",
+    "titleLine2": "LIES BENEATH.",
+    "lead": "Integrated infrastructure systems engineered for reliable performance — from water and firefighting networks to electrical distribution and light current systems.",
+    "command": "ARBEC / INFRASTRUCTURE",
+    "systemLabel": "SYSTEM",
+    "scopeLabel": "SCOPE",
+    "activeSystem": "ACTIVE",
+    "count": "SYSTEMS",
+    "total": "06",
+    "surface": "SURFACE",
+    "underground": "UNDERGROUND NETWORK",
+    "reveal": "REVEAL UNDERGROUND",
+    "surfaceView": "SURFACE VIEW",
+    "stepLabel": "STEP",
+    "of": "OF",
+    "loading": "loading site systems",
+    "selectHint": "Select a system to illuminate its network",
+    "story": {
+      "site": {
+        "title": "THE SITE",
+        "description": "The project surface — building, roads and service areas define the site context."
+      },
+      "reveal": {
+        "title": "REVEAL",
+        "description": "The ground opens to reveal exactly what ARBEC engineers beneath the project."
+      },
+      "networks": {
+        "title": "NETWORKS",
+        "description": "Water, sewage, electrical and light-current systems share one coordinated underground."
+      },
+      "selector": {
+        "title": "SYSTEM SELECTOR",
+        "description": "Each discipline can be illuminated and explored through the system console."
+      },
+      "connection": {
+        "title": "ENGINEERING CONNECTION",
+        "description": "Every network is coordinated to work with the others — one integrated system beneath the project."
+      },
+      "execution": {
+        "title": "ARBEC EXECUTION",
+        "description": "From engineering visualization to execution, ARBEC delivers the systems beneath the project."
+      }
+    },
+    "finalMessage": "Every successful project depends on the systems you don't always see.",
+    "cta": "LET'S ENGINEER YOUR INFRASTRUCTURE"
+  },
+  "footer": {
+    "sloganTitle": "Build with ARBEC",
+    "slogan": "Our slogan is customer satisfaction, quality and speed of work.",
+    "hours": "Sat – Thu 8:00 – 5:00",
+    "friday": "Friday — Closed",
+    "servicesTitle": "Our Services",
+    "officeTitle": "Office in Egypt",
+    "suppliesTitle": "For Supplies",
+    "contractingTitle": "For Contracting",
+    "followUs": "Follow us",
+    "rights": "All rights reserved.",
+    "legal": "ARBEC. All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for has been moved or does not exist.",
+    "backHome": "Back to home"
+  }
+}
